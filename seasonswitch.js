@@ -19,4 +19,4 @@ switch(month)
     case 10:
         console.log("rainy season")
         break;
-}
+}sss
